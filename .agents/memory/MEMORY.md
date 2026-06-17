@@ -1,0 +1,1 @@
+- [npm broken, use bun + workflow installs](env-install-quirks.md) — npm hangs on startup here; bun works but bg/foreground installs get reaped — install via a workflow.
